@@ -6,6 +6,6 @@ var friends = [ {
     "name" : "Melina",
     "photo" : "http://science-all.com/images/wallpapers/girl-pictures/girl-pictures-23.jpg",
     "scores" : [3,4,2,4,4,1,1,2,3,4]
-},
+}]
 
 module.exports = friends;
